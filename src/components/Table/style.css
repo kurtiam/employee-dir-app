@@ -1,0 +1,25 @@
+.card-text  {
+padding-left: 100px;
+padding-top: 15px;
+font-size: 10px;
+ 
+  }
+
+ .img {
+    width: 25%;
+    position: relative;
+    float: left;
+    border-radius: 50%;
+   
+  } 
+  
+  .card{
+    margin-top: 20px;
+    background: #fff;
+    border-radius: 2px;
+    height: 100x;
+    margin-left: 60px;
+    width: 350px;
+    text-align: left;
+    border: hidden;
+  }
