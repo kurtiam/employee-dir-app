@@ -1,7 +1,6 @@
 {
   "name": "employee-dir-app",
   "version": "0.1.0",
-  "homepage": "https://mighty-brushlands-23901.herokuapp.com/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.13",
