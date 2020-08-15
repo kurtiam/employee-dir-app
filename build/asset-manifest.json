@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/kurtiam/employee-dir-app/static/css/main.2eaee381.chunk.css",
-    "main.js": "/kurtiam/employee-dir-app/static/js/main.176d5dd6.chunk.js",
-    "main.js.map": "/kurtiam/employee-dir-app/static/js/main.176d5dd6.chunk.js.map",
-    "runtime-main.js": "/kurtiam/employee-dir-app/static/js/runtime-main.06b9b66e.js",
-    "runtime-main.js.map": "/kurtiam/employee-dir-app/static/js/runtime-main.06b9b66e.js.map",
-    "static/js/2.9c161225.chunk.js": "/kurtiam/employee-dir-app/static/js/2.9c161225.chunk.js",
-    "static/js/2.9c161225.chunk.js.map": "/kurtiam/employee-dir-app/static/js/2.9c161225.chunk.js.map",
-    "index.html": "/kurtiam/employee-dir-app/index.html",
-    "precache-manifest.aa72e40312e16cd5464c9a133cbf23bd.js": "/kurtiam/employee-dir-app/precache-manifest.aa72e40312e16cd5464c9a133cbf23bd.js",
-    "service-worker.js": "/kurtiam/employee-dir-app/service-worker.js",
-    "static/css/main.2eaee381.chunk.css.map": "/kurtiam/employee-dir-app/static/css/main.2eaee381.chunk.css.map",
-    "static/js/2.9c161225.chunk.js.LICENSE.txt": "/kurtiam/employee-dir-app/static/js/2.9c161225.chunk.js.LICENSE.txt"
+    "main.css": "/employee-dir-app/static/css/main.2eaee381.chunk.css",
+    "main.js": "/employee-dir-app/static/js/main.8a0bad9b.chunk.js",
+    "main.js.map": "/employee-dir-app/static/js/main.8a0bad9b.chunk.js.map",
+    "runtime-main.js": "/employee-dir-app/static/js/runtime-main.4c76d913.js",
+    "runtime-main.js.map": "/employee-dir-app/static/js/runtime-main.4c76d913.js.map",
+    "static/js/2.9c161225.chunk.js": "/employee-dir-app/static/js/2.9c161225.chunk.js",
+    "static/js/2.9c161225.chunk.js.map": "/employee-dir-app/static/js/2.9c161225.chunk.js.map",
+    "index.html": "/employee-dir-app/index.html",
+    "precache-manifest.83824f4354efe994c255460b38443f2e.js": "/employee-dir-app/precache-manifest.83824f4354efe994c255460b38443f2e.js",
+    "service-worker.js": "/employee-dir-app/service-worker.js",
+    "static/css/main.2eaee381.chunk.css.map": "/employee-dir-app/static/css/main.2eaee381.chunk.css.map",
+    "static/js/2.9c161225.chunk.js.LICENSE.txt": "/employee-dir-app/static/js/2.9c161225.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.06b9b66e.js",
+    "static/js/runtime-main.4c76d913.js",
     "static/js/2.9c161225.chunk.js",
     "static/css/main.2eaee381.chunk.css",
-    "static/js/main.176d5dd6.chunk.js"
+    "static/js/main.8a0bad9b.chunk.js"
   ]
 }
