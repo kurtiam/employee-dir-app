@@ -1,7 +1,7 @@
 {
   "name": "employee-dir-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/kurtiam/employee-dir-app",
+  "homepage": "http://kurtiam.github.io/employee-dir-app",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.13",
